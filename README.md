@@ -6,8 +6,11 @@ Bonjour à tous! Ceci est un projet d'auto-potager à intégrer dans le coeur do
 
 ## Captures d'écran
 ![capture d ecran 2016-06-21 a 09 54 04](https://cloud.githubusercontent.com/assets/6785619/16221998/06f0529a-37c0-11e6-8fd1-8fc23fe0f024.png)
+
 ![capture d ecran 2016-06-21 a 09 55 17](https://cloud.githubusercontent.com/assets/6785619/16221999/0a02f1ea-37c0-11e6-8b09-459aecd6ec2b.png)
+
 ![capture d ecran 2016-06-21 a 09 55 36](https://cloud.githubusercontent.com/assets/6785619/16222003/0e88101a-37c0-11e6-994a-8789ff9853a7.png)
+
 ![capture d ecran 2016-06-21 a 09 55 47](https://cloud.githubusercontent.com/assets/6785619/16222004/10b040c4-37c0-11e6-87a5-887d74e4e4c4.png)
 
 ## En cours de développement
@@ -20,6 +23,7 @@ Le plugin n'est pas fonctionnel car je n'ai pas encore acheté ce fameux Flower 
 
 ## Avancement
 Après pas mal de discussions, je compte procéder ainsi: la première version du plugin sera directement compatible avec le Flower Power, que j'achèterai en temps voulu. Je développerai par la suite un projet de sonde DIY autonome, soit un Flower Power fait maison pour un budget de 20€ max (capteurs + batterie + bluetooth). Chaque sonde sera indépendante et pourra être ajoutée au plugin, de façon à gérer plusieurs objets "Potager". Ce projet sera mis à disposition sur l'excellente plateforme Hackpoint, et je rédiregerai un article complet sur http://valou-tweak.fr, comme j'ai l'habitude de faire avec mes petits hacks. En parallèle, je compte mettre en place une boîte à permaculture, pour aller un peu plus loin qu'une simple gestion de potager, et destiné aux personnes qui comme moi n'ont pas la chance de posséder un lopin de terre. J'imagine cette boîte comme un cube en bois de 50cm3 environ, avec une "porte" s'ouvrant vers le haut où sera intégré l'électronique, le tout se déplaçant facilement (image ci-dessous):
+
 ![permaculture](https://cloud.githubusercontent.com/assets/6785619/16300816/11482d32-396c-11e6-91d2-1c3d7dd239c9.jpg)
 
 ## Inspiration
