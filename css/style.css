@@ -1,0 +1,102 @@
+/* =============================================================================
+   Info Bulles
+   ========================================================================== */
+
+a.info {
+  position: relative;
+  text-decoration: none;
+  border-bottom: 1px gray dotted; /* on souligne le texte */
+}
+a.info span {
+  display: none; /* on masque l'infobulle */
+}
+a.info:hover {
+  background: none; /* correction d'un bug IE */
+  z-index: 500; /* on définit une valeur pour l'ordre d'affichage */
+  cursor: help; /* on change le curseur par défaut en curseur d'aide */
+}
+a.info:hover span {
+  display: inline; /* on affiche l'infobulle */
+  position: absolute; white-space: nowrap;
+  top: 30px; /* on positionne notre infobulle */
+  left: 20px;
+  background: white;
+  color: #046380;
+  padding: 3px;
+  border: 1px solid purple;
+  border-left: 4px solid purple;
+}
+.icon-help {
+  height: 30px;
+  width: 25px;
+}
+.icon-ok {
+  height: 30px;
+  width: 30px;
+}
+.icon-fault {
+  height: 20px;
+  width: 20px;
+}
+
+
+/* =============================================================================
+   Graphiques
+   ========================================================================== */
+
+.graph {
+        width: 480px;
+        height: 340px;
+        border: 2px solid #aeaeae;
+        background-color: #eaeaea;
+}
+.g-bar-t {
+        width: 15px;
+        margin: 1px;
+        margin-left: 20px;
+        margin-top: -40px;
+        display: inline-block;
+        position: relative;
+        margin-bottom: 120px;
+        bottom: -100px;
+        vertical-align: baseline;
+        background-color: #5F04B4;
+}
+.g-bar-h {
+        width: 15px;
+        margin: 1px;
+        margin-left: 20px;
+        margin-top: -40px;
+        display: inline-block;
+        position: relative;
+        margin-bottom: 120px;
+        bottom: -100px;
+        vertical-align: baseline;
+        background-color: #2E9AFE;
+}
+.g-bar-l {
+        width: 15px;
+        margin: 1px;
+        margin-left: 20px;
+        margin-top: -40px;
+        display: inline-block;
+        position: relative;
+        margin-bottom: 120px;
+        bottom: -100px;
+        vertical-align: baseline;
+        background-color: #FFBF00;
+}
+.g-bar-e {
+        width: 15px;
+        margin: 1px;
+        margin-left: 20px;
+        margin-top: -40px;
+        display: inline-block;
+        position: relative;
+        margin-bottom: 120px;
+        bottom: -100px;
+        vertical-align: baseline;
+        background-color: #B45F04;
+}
+
+
