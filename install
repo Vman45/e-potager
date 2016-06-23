@@ -1,0 +1,23 @@
+<?php
+/* 
+	Le code contenu dans cette page ne sera éxecuté qu'à l'activation du plugin 
+	Vous pouvez donc l'utiliser pour créer des tables SQLite, des dossiers, ou executer une action
+	qui ne doit se lancer qu'à l'installation ex :
+	
+*/
+	require_once(dirname(__FILE__).'/Potager.class.php');
+	
+	$table = new Potager();
+	$table->create();
+	//$table->setId(1);
+	$table->setCmdArrosage("echo arrosage");
+	$table->setCmdEngrais("echo engrais");
+	$table->save();
+
+	//Creation d'une section plugin_flower sur laquelle on pourra gerer des droits (creation(c),lecture(r), modification(u), suppression(d))
+	Section::add('plugin_potager','Section de gestion des potagers');
+	
+
+
+	
+?>
