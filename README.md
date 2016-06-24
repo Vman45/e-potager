@@ -31,6 +31,8 @@ Bien évidemment, le coeur Yana développé par Idleman:
 https://github.com/ldleman/yana-server
 Egalement la plateforme Hackpoint, développé encore par Idleman:
 http://blog.idleman.fr/gerez-vos-projets-de-hack-avec-hackpoint/
+Un article de Korben sur la permaculture, qui m'a vraiment motivé:
+https://korben.info/faire-son-potager.html
 Je poste aussi l'excellent projet d'un étudiant, Victor Le Deuff ayant développé un système similaire, sur lequel je me suis fortement inspiré: http://www.pipotager.tk/
 
 Merci pour votre lecture =)
