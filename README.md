@@ -2,7 +2,7 @@
 Auto potager intégré au coeur domotique Yana de Idleman
 
 ## Présentation
-Bonjour à tous! Ceci est un projet d'auto-potager à intégrer dans le coeur domotique Yana Server compatible entre autre avec le Flower Power de Parrot, qui est une sonde bluetooth, facile d'utilisation, et avec laquelle j'aimerai suivre l'état de mes petites plantations =)
+E-Potager est un projet d'auto-potager à intégrer dans le coeur domotique Yana Server compatible entre autre avec le Flower Power de Parrot, qui est une sonde bluetooth, facile d'utilisation, et avec laquelle j'aimerai suivre l'état de mes petites plantations =)
 
 ## Captures d'écran
 ![capture d ecran 2016-06-21 a 09 54 04](https://cloud.githubusercontent.com/assets/6785619/16221998/06f0529a-37c0-11e6-8fd1-8fc23fe0f024.png)
